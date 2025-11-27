@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi, I'm Jyusi.
+
+I'm learning python to work on personal projects.
+
+It is fun to do research through simulation and machine learning.
 
 <!--
 **jyusiwong/jyusiwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
