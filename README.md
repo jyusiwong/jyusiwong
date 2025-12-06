@@ -4,6 +4,8 @@ I'm learning python to work on personal projects.
 
 Having fun to do research through simulation and machine learning.
 
+Really into Zootopia recently❤️
+
 <!--
 **jyusiwong/jyusiwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
